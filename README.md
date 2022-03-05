@@ -9,6 +9,12 @@ Esse banco foi enrriquecido com dados referentes a religião dos parlamentares, 
 
 Mapear os sentidos atribuídos às noções de “doutrinação ideológica” e “ideologia de gênero” e as justificativas em defesa e contra contidas nas falas de deputados da Comissão. Nesse caso, notas taquigráficas.
 
+## Aplicação
+
+* Análise de redes de atores.
+* Análise de discuso a partir de NLP.
+* Centralização do debate parlamentar a partir da cronologia dos fatos e dads falas em um banco de dados.
+
 
 
 
