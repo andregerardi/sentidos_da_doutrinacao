@@ -13,7 +13,7 @@ Mapear os sentidos atribuídos às noções de “doutrinação ideológica” e
 
 * Análise de redes de atores.
 * Análise de discuso a partir de NLP.
-* Centralização do debate parlamentar a partir da cronologia dos fatos e dads falas em um banco de dados.
+* Centralização do debate parlamentar e cronologia dos fatos e das falas em um banco de dados.
 
 
 
