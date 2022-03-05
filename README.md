@@ -19,8 +19,8 @@ Mapear os sentidos atribuídos às noções de “doutrinação ideológica” e
 ## Problemas
 As notas taquigráficas apresentam diversos formatos de publicação, exigindo a separação dos documentos em tipos. A partir desses tipos foi possível ralizar ETL de modo concentrado, o que facilitou a separação de fragmentos do texto com Regex. 
 
-### Obs.
-Os bancos de dados ainda não foram inseridos em função de constituir um trabalho ainda em desenvolvimento e não publicado. 
+## Obs.
+Os bancos de dados não foram inseridos em função de constituir parte de um trabalho ainda em desenvolvimento e não publicado. 
 
 
 
