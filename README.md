@@ -15,6 +15,9 @@ Mapear os sentidos atribuídos às noções de “doutrinação ideológica” e
 * Análise de discuso a partir de NLP.
 * Centralização do debate parlamentar e cronologia dos fatos e das falas em um banco de dados.
 
+## Problemas
+As notas taquigráficas apresentam diversos formatos de publicação, exigindo a separação dos documentos em tipos. A partir desses tipos foi possível ralizar ETL de modo concentrado, o que facilitou a separação de fragmentos do texto com Regex. 
+
 
 
 
